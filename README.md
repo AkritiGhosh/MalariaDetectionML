@@ -1,5 +1,9 @@
 # MalariaDetectionML
 This is a basic Machine Learning Model which uses Random Forest classifier to detect malaria.
+
+Image Dataset
+[Link to Dataset](https://drive.google.com/file/d/1lxVOmIyjpL0JITOA-06YSI_NMFIH3auz/view)
+
 WORKING: -
 It uses images of cells of patients, and on the basis of contour area. Cells infected with malaria are distinguished from the healthy one due to the presence of extra spots in the images. The model checks for different boundaries in the image and stores the areas of each ring in a csv file, called area_dataset.csv
 
